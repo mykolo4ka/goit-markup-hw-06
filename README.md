@@ -1,1 +1,2 @@
-# goit-markup-hw-06 by Vlad ((;;
+# goit-markup-hw-06 
+# by Mykola Fedash
